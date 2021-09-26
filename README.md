@@ -6,9 +6,6 @@
 To become associated with an organization where I can utilize my skills to enhance the organization's reputation with better results and gain more experience.
 
 ### Skills
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
 - ReactJs,ReduxJs, (expert)
 - Vue.js 
