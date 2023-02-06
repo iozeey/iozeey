@@ -11,8 +11,9 @@ To become associated with an organization where I can utilize my skills to enhan
 - Vue.js 
 - GraphQL, Apollo Client, 
 - RESTful API
+- Python (Django)
 - Ruby on Rails(intermediate)
-- Laravel, Django(beginner)
+- Laravel
 - MySQL, Postgresql
 - Stripe
 - Handlebars.js
