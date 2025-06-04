@@ -1,6 +1,6 @@
 ## Zeeshan Ahmad 
 ### Senior Web Architect & Developer 
-###### +92 313 4435357 | zeeshan.za.ahmad@gmail.com
+###### +92 777 4261608 | zeeshan.za.ahmad@gmail.com
 
 ### Objective
 To become associated with an organization where I can utilize my skills to enhance the organization's reputation with better results and gain more experience.
